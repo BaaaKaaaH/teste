@@ -1,10 +1,10 @@
 # veja meu boga
 
 
-aonde ta meu cu?
+aonde ta meu cuuuuu?
 ```
 <?p
-
+uuuu
   echo "bossetaaaa"
 
 ?>
